@@ -1,0 +1,7 @@
+{
+  "name": "Harsha Nexus Enterprise v2.0",
+  "description": "A 10/10 complete private intelligence platform with 19 cognitive layers, PII guard, agent swarm, and autonomous tool engine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
